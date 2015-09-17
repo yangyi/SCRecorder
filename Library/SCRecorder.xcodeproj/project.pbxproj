@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4F6326421BAA8E70000D280D /* SCFilterAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = DC7A62BD1AFA47EC00EAB60C /* SCFilterAnimation.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4F6326431BAA8FB4000D280D /* SCContext.h in Headers */ = {isa = PBXBuildFile; fileRef = DCEE37881B17E6480019C7B5 /* SCContext.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4FC8D5031BAA748B005DE360 /* SCIOPixelBuffers.m in Sources */ = {isa = PBXBuildFile; fileRef = DCD12AA31B45AA540064674D /* SCIOPixelBuffers.m */; };
 		4FC8D5041BAA7496005DE360 /* SCProcessingQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = DCD12A9E1B456C5E0064674D /* SCProcessingQueue.m */; };
 		DC10CF281ACFD458009880C4 /* SCWeakSelectorTarget.h in Headers */ = {isa = PBXBuildFile; fileRef = DC10CF261ACFD458009880C4 /* SCWeakSelectorTarget.h */; };
@@ -548,6 +549,7 @@
 				DCDC1E3E1AC799CF001DC3D9 /* SCVideoPlayerView.h in Headers */,
 				DCDC1E3F1AC799CF001DC3D9 /* CIImageRendererUtils.h in Headers */,
 				DCDC1E401AC799CF001DC3D9 /* SCSampleBufferHolder.h in Headers */,
+				4F6326431BAA8FB4000D280D /* SCContext.h in Headers */,
 				DCDC1E411AC799CF001DC3D9 /* SCAssetExportSession.h in Headers */,
 				DCDC1E421AC799CF001DC3D9 /* SCAudioTools.h in Headers */,
 				DCDC1E431AC799CF001DC3D9 /* SCRecorderTools.h in Headers */,
