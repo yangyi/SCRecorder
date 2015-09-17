@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F6326421BAA8E70000D280D /* SCFilterAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = DC7A62BD1AFA47EC00EAB60C /* SCFilterAnimation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4FC8D5031BAA748B005DE360 /* SCIOPixelBuffers.m in Sources */ = {isa = PBXBuildFile; fileRef = DCD12AA31B45AA540064674D /* SCIOPixelBuffers.m */; };
 		4FC8D5041BAA7496005DE360 /* SCProcessingQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = DCD12A9E1B456C5E0064674D /* SCProcessingQueue.m */; };
 		DC10CF281ACFD458009880C4 /* SCWeakSelectorTarget.h in Headers */ = {isa = PBXBuildFile; fileRef = DC10CF261ACFD458009880C4 /* SCWeakSelectorTarget.h */; };
@@ -526,6 +527,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F6326421BAA8E70000D280D /* SCFilterAnimation.h in Headers */,
 				DCDC1DF81AC79592001DC3D9 /* SCRecorderFramework.h in Headers */,
 				DCDC1E2E1AC799CF001DC3D9 /* SCVideoConfiguration.h in Headers */,
 				DCDC1E2F1AC799CF001DC3D9 /* SCAudioConfiguration.h in Headers */,
